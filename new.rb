@@ -9,3 +9,5 @@
     puts num
   end
 end
+
+puts "fin"
